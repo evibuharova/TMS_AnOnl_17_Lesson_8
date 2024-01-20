@@ -1,2 +1,4 @@
-package PACKAGE_NAME;public class Figura {
+public abstract class Figura {
+    abstract double countArea ();
+    abstract double countPerimeter ();
 }
