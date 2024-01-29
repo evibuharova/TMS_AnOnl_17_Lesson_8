@@ -1,6 +1,8 @@
+package figura;
+
 public  class Rectangle extends Figura {
-    int a;
-    int b;
+    private int a;
+    private int b;
 
     public Rectangle(int a, int b) {
         this.a = a;
@@ -8,11 +10,11 @@ public  class Rectangle extends Figura {
     }
 
     @Override
-    double countArea() {
+    public double countArea() {
         return a * b;
     }
     @Override
-    double countPerimeter () {
+    public double countPerimeter() {
         return 2*(a*b);
     };
 }

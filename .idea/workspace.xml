@@ -5,12 +5,16 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="c66dff7e-4e29-4108-b293-e53c28e38386" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/Director/Accountant.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Director/Director.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Director/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Director/Printing.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Director/Worker.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Circle.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/figura/Circle.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Director/Accountant.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Director/Accountant.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Director/Director.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Director/Director.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Director/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Director/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Director/Worker.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Director/Worker.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Figura.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/figura/Figura.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Rectangle.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/figura/Rectangle.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Triangle.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/figura/Triangle.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -33,12 +37,12 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "RunOnceActivity.OpenProjectViewOnStart": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;
   }
-}]]></component>
+}</component>
   <component name="RunManager" selected="Application.Director.Main">
     <configuration name="Director.Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Director.Main" />

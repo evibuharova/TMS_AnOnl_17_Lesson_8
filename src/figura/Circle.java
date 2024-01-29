@@ -1,22 +1,21 @@
+package figura;
+
 public class Circle extends Figura {
-    double radius;
+    private double radius;
 
     public Circle(double radius) {
         this.radius = radius;
     }
 
     @Override
-    double countArea() {
+    public double countArea() {
         return radius * radius * Math.PI;
     }
 
-    ;
-
     @Override
-    double countPerimeter() {
+    public double countPerimeter() {
         return 2 * Math.PI * radius;
     }
 
-    ;
 }
 

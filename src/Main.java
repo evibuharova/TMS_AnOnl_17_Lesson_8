@@ -1,4 +1,7 @@
-import java.util.Arrays;
+import figura.Circle;
+import figura.Figura;
+import figura.Rectangle;
+import figura.Triangle;
 
 public class Main {
     public static void main(String[] args) {
@@ -6,7 +9,7 @@ public class Main {
         figure[0]= new Circle(3);
         figure[1]= new Circle(4);
         figure[2]= new Circle(5);
-        figure[3]= new Triangle(5,5,5,5);
+        figure[3]= new Triangle(5,5,5);
         figure[4]= new Rectangle(5,2);
         System.out.println(figure[0].countPerimeter());
         System.out.println(figure[1].countPerimeter());
